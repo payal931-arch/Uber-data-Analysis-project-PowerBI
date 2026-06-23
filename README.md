@@ -4,7 +4,9 @@ Uber Trip Analysis Dashboard using Power BI | End-to-End Data Analytics Project 
 ##Files in the Project
 
 -UberDataset.csv: The original dataset containing raw Uber ride data.
+
 -Dashboard.png: An image file showing the dashboard visualizing the analysis results.
+
 -Uber_Rides_Data_Analysis_Documentation_and_Recommendations.docx: A document containing detailed documentation of the analysis steps and recommendations based on the analysis.
 
 ##Analysis Steps
