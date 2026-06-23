@@ -45,3 +45,13 @@ Uber Trip Analysis Dashboard using Power BI | End-to-End Data Analytics Project 
   
 - Enabled easy exploration of data through interactive reports.
 
+  ## 📌 KPIs Used
+- Total Bookings
+- Total Revenue
+- Average Trip Distance
+- Average Trip Duration
+- Peak Hours Analysis
+- Trip Trends
+- Ride Distribution
+
+
